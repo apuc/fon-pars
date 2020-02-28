@@ -1,5 +1,5 @@
-#Fonbet Parser
-##Требуются:
+<h1>Fonbet Parser</h1>
+<h2>Требуются:</h2>
 * Python 3.8 (возможно версии ниже также подойдут)
 * Зависимости (pip install -r requirements.txt)
     * selenium
